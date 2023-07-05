@@ -1,19 +1,14 @@
 # Memoteca
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+Projeto gerado com [Angular CLI](https://github.com/angular/angular-cli) versão 14.0.0.
 
-## Development server
+## Servidor de desenvolvimento
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Rode `ng serve` para o servidor de desenvolvimento. Navegue por `http://localhost:4200/`. A aplicação vai carregar automaticamente caso haja mudança nos arquivos.
 
-## Code scaffolding
+## Apis Consumidas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Apis para consumo geradas com JSON Server.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
