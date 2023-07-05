@@ -14,9 +14,9 @@ const routes: Routes = [
     component: CriarPensamentoComponent
   },
   {
-    path: 'listar-pensamentos',
+    path: 'listar-pensamento',
     component: ListarPensamentoComponent
-  },
+  }
 ];
 
 @NgModule({
