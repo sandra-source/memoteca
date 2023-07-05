@@ -8,7 +8,7 @@ Rode `ng serve` para o servidor de desenvolvimento. Navegue por `http://localhos
 
 ## Apis Consumidas
 
-Operações do crud simuladas com JSON Server
+Apis para consumo geradas com JSON Server.
 
 
 
