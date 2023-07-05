@@ -10,8 +10,5 @@ Rode `ng serve` para o servidor de desenvolvimento. Navegue por `http://localhos
 
 Operações do crud simuladas com JSON Server
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 
