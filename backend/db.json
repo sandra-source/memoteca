@@ -1,34 +1,3 @@
 {
-  "pensamentos": [
-    {
-      "id": 1,
-      "conteudo": "Que bom que você veio.",
-      "autoria": "Sandra",
-      "modelo": "modelo1"
-    },
-    {
-      "id": 2,
-      "conteudo": "Estudando Angular.",
-      "autoria": "Dev alura",
-      "modelo": "modelo2"
-    },
-    {
-      "id": 3,
-      "conteudo": "testando editar pensamento verdinho",
-      "autoria": "Sandra2222",
-      "modelo": "modelo1"
-    },
-    {
-      "conteudo": "Pensamento de teste",
-      "autoria": "Dev Angular",
-      "modelo": "modelo3",
-      "id": 4
-    },
-    {
-      "conteudo": "15151",
-      "autoria": "41144141",
-      "modelo": "modelo2",
-      "id": 5
-    }
-  ]
+  "pensamentos": []
 }
