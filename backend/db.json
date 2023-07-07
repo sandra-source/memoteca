@@ -14,9 +14,9 @@
     },
     {
       "id": 3,
-      "conteudo": "Angular é o melhor.",
-      "autoria": "Sandra",
-      "modelo": "modelo3"
+      "conteudo": "testando editar pensamento verdinho",
+      "autoria": "Sandra2222",
+      "modelo": "modelo1"
     },
     {
       "conteudo": "Pensamento de teste",
@@ -29,12 +29,6 @@
       "autoria": "41144141",
       "modelo": "modelo2",
       "id": 5
-    },
-    {
-      "conteudo": "55555",
-      "autoria": "11111",
-      "modelo": "modelo2",
-      "id": 6
     }
   ]
 }
